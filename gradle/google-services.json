@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "636024383640",
+    "firebase_url": "https://places-7ac8b.firebaseio.com",
+    "project_id": "places-7ac8b",
+    "storage_bucket": "places-7ac8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636024383640:android:318f7e3632d59f5d",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.u5_57_gps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636024383640-n7qf4mape0q5cqh0ig84ev6b090laigh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFq4SFnm1iUkil1W4hP8sLXAyVCZyjDI4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
